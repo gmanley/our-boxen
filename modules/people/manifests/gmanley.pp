@@ -23,7 +23,7 @@ class people::gmanley {
   include colloquy
   include cloudapp
   include heroku
-  include iterm2
+  # include iterm2
   include skype
   include vlc
   include virtualbox
