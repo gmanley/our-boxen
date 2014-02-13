@@ -1,4 +1,5 @@
 class people::gmanley {
+  include ruby
   include alfred
   include btsync
   include chrome
